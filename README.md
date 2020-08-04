@@ -6,7 +6,7 @@ Instructions:
 2) Download the R source code into your R working directory.
 3) Execute R source code to generate a tidy data file.
 
-### About the data "Human Activity Recognition Using Smartphones Dataset"
+### About the data ["Human Activity Recognition Using Smartphones Dataset"](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 In this dataset, 30 subjects were used to perform six activities; these activities were measured using the sensor signals with smartphones. 
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. 
 The variable in the data Y indicates activity type the subjects performed during recording.
