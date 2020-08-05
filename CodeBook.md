@@ -44,4 +44,4 @@ Using the levels and labels of the `activity_labels` data table and the factor()
 
 ## 7. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 The average for each variable for each activity was calculated from the `DataSet` with the group_by() and summarise() functions, creating a new data called `DataSetMeans`.
-Final this final data was created using the write.table() function with row.names = FALSE, in a file called `tidy_data.txt`.
+Finally, this final data was created using the write.table() function with row.names = FALSE, in a file called `tidy_data.txt`.
