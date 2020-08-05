@@ -25,7 +25,7 @@ activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
 activity_labels[,1] <- as.numeric(activity_labels[,1])
 
 
-####Step 1. Merge the trainning and the test to create One Dataset
+####Step 1. Merge the training and the test to create One Dataset
 
 DataSet <- rbind(
     cbind(sub_train, x_train, y_train),
